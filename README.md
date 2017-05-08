@@ -1,4 +1,4 @@
-# Shopping App 
+# Shopping App ![Travis-ci](https://api.travis-ci.org/kk-dpr/ECommerce_clone.svg)
 Forgive my english . This is an full stack E-Commerce App I started as pet project to understand Retail business logic. However I started to get request to  reuse this project in real world from alla round the world. So I have decide to keep it real and make avialble for all who are starting a new business and having tought time nagotiating with developers with tight budgets. 
 
 ### This project have features:- 
